@@ -1,0 +1,13 @@
+show databases;
+
+show tables;
+
+desc free_board;
+
+desc restaurant_review;
+
+desc free_board;
+
+select * from free_board;
+commit;
+
